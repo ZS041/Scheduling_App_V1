@@ -21,10 +21,10 @@ Both successful and failed user activity is logged to login_activity.txt.
 
 
 ### Dependencies
-
-Java SE 17.0.5
-OpenJFX 11.0
-MySQL 8.0.25
+<ul>
+<li>Java SE 17.0.5</li>
+<li>OpenJFX 11.0</li>
+<li>MySQL 8.0.25</li>
 
 ### Installing
 
